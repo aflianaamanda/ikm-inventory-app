@@ -1,11 +1,6 @@
-.DS_Store
-Thumbs.db
-vendor/
-node_modules/
-.env
-*.log
-error_log
-uploads/
-cache/
-.vscode/
-.idea/
+"temp/" 
+"" 
+"# File lokal lainnya" 
+".env" 
+"*.log" 
+"vendor/" 
