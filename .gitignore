@@ -1,6 +1,5 @@
-"temp/" 
-"" 
-"# File lokal lainnya" 
-".env" 
-"*.log" 
-"vendor/" 
+backup/ 
+cache/ 
+.env 
+*.log 
+vendor/ 
